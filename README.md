@@ -1,12 +1,12 @@
 # Fake-news-Detection-using-Ensemble-Learning-
 Introduction:
 
-	Do you trust all the news you hear from social media? Fake news and hoaxes have been there since before the advent of the Internet.  So how will you detect the fake news? The answer is Machine Learning. By practicing this project of detecting fake news, we will easily make a difference between real and fake news.
+Do you trust all the news you hear from social media? Fake news and hoaxes have been there since before the advent of the Internet.  So how will you detect the fake news? The answer is Machine Learning. By practicing this project of detecting fake news, we will easily make a difference between real and fake news.
 Following the advent of the internet, more and more users began using the web as their primary source of information and news, as it is more convenient and faster. The development, however, came with a redefined concept of fake news as content publishers began using what has come to be commonly referred to as a clickbait. Users continue to deal with sites containing false information and whose involvement tends to affect the reader’s ability to engage with actual news. The main aim of the project is to reveal the benefits of Machine Learning methodology used in the detection of fake news and their success levels in this particular application. As a result of the study, it was concluded that the success level of the project is over 90%.
 
 Proposed Solution:
 
-	This project of detecting fake news deals with fake and real news. Using sklearn, we’ll build a TfidfVectorizer on our dataset. Then, we’ll initialize a PassiveAggressive Classifier, Multinomial Naive Bayes Classifier, Random Forest Classifier, Support Vector Machine Classifier   and fit the model. And then we make an ensemble learning model with a hard voting and all the above mentioned classifiers. And check the accuracy score of the project.
+This project of detecting fake news deals with fake and real news. Using sklearn, we’ll build a TfidfVectorizer on our dataset. Then, we’ll initialize a PassiveAggressive Classifier, Multinomial Naive Bayes Classifier, Random Forest Classifier, Support Vector Machine Classifier   and fit the model. And then we make an ensemble learning model with a hard voting and all the above mentioned classifiers. And check the accuracy score of the project.
 
 Methodology:
 
